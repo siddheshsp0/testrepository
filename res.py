@@ -1,3 +1,3 @@
-dadagiri = 'dadagiri'
+dadagiri = 'dadigiri'
 
 addition = 'subtraction'
