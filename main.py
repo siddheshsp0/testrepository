@@ -1,5 +1,5 @@
 def main():
-	print('YAO')
+	print('YAO but edited')
 	return
 
 if __name__ == '__main__':
